@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Haren Raj 👋
 
-<!--
-**HarenRaj-Dev/HarenRaj-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I’m currently learning **Android Development, Java, SQL and more**
+- 👨‍💻 I love building small projects and experimenting with new tech
+- 💡 Goal: Become a professional Android + Backend Developer
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Languages:** Java, Python, SQL
+- **Tools:** Git, Android Studio, VS Code
+- **Databases:** MySQL, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenRaj-Dev&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/haren-raj-koyalkar-pulkal-247773373/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/HarenRaj-Dev)
