@@ -54,8 +54,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koyalkarpulkalharenraj@gmail.com)
 
 ## ✨ Current Focus
-- Building practical Android and backend projects
-- Improving Java and problem-solving skills
+- Building practical cross-platform and backend projects
+- Improving Python and problem-solving skills
 - Staying consistent with learning and development
 
 ## ✨ Fun Note
