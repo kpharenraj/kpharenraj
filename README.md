@@ -1,7 +1,7 @@
 # Hi there, I'm Haren Raj 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=500&lines=Android+Developer+in+Progress;Java+%7C+Python+%7C+SQL;Building+projects+and+learning+daily!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=500&lines=Web+Developer+in+Progress;Python+%7C+Java+%7C+PostgreSQL;Building+projects+and+learning+daily!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -29,9 +29,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kpharenraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpharenraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpharenraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kpharenraj&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kpharenraj&theme=tokyonight" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kpharenraj&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpharenraj&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kpharenraj&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🌐 Connect With Me
@@ -44,6 +52,11 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kp_harenraj)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/koyalkarpulkalh1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koyalkarpulkalharenraj@gmail.com)
+
+## ✨ Current Focus
+- Building practical Android and backend projects
+- Improving Java and problem-solving skills
+- Staying consistent with learning and development
 
 ## ✨ Fun Note
 - Always curious
