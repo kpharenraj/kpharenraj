@@ -35,7 +35,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kpharenraj&theme=tokyonight" alt="Top Languages" />
-  [![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=kpharenraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpharenraj&theme=tokyonight" alt="Profile Details" />
 </div>
 
