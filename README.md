@@ -29,14 +29,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kpharenraj&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kpharenraj&theme=transparent" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kpharenraj&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kpharenraj&theme=tokyonight" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kpharenraj&theme=transparent" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=kpharenraj&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpharenraj&theme=transparent" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kpharenraj&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=kpharenraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpharenraj&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <div align="center">
