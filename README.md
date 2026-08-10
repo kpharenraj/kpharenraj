@@ -1,14 +1,11 @@
+<!-- Dynamic Hero Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,70:1f2335,100:38bdf8&height=230&section=header&text=Hi,%20I%20am%20Haren%20Raj&fontSize=48&fontColor=ffffff&animation=fadeIn&subtext=Cross-Platform%20%26%20Backend%20Developer%20%7C%20DSA%20Solver&subtextFontSize=18&subtextColor=7aa2f7" width="100%" alt="Header Banner" />
+</div>
+
 <div align="center">
 
-  <!-- Header Banner / Greeting -->
-  <h1 style="color: #4dc0ecff; background-color: transparent;">
-    <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px"> Hi, I'm 
-    <a href="https://github.com/kpharenraj" style="color: #4dc0ecff;">Haren Raj</a>
-  </h1>
-
-  <h3>🚀 Aspiring Cross-Platform & Backend Developer | Problem Solver</h3>
-
-  <!-- Typing SVG Banner -->
+  <!-- Animated Typing SVG Banner -->
   <a href="https://github.com/kpharenraj">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Cross-Platform+%26+Backend+Solutions;Exploring+Python+%7C+Java+%7C+PostgreSQL+%7C+Web+Dev;Solving+DSA+Problems+on+LeetCode+%26+HackerRank;Always+Learning+%26+Building+Daily!" alt="Typing SVG" />
   </a>
@@ -22,9 +19,9 @@
 
   <br /><br />
 
-  <!-- Stats Pill Badges -->
+  <!-- Profile Metrics & Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kpharenraj&color=007ecc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=kpharenraj&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     <a href="https://github.com/kpharenraj?tab=followers"><img src="https://img.shields.io/github/followers/kpharenraj?style=for-the-badge&color=238636&logo=github&label=FOLLOWERS" alt="Followers" /></a>
     <a href="https://github.com/kpharenraj?tab=repositories"><img src="https://img.shields.io/github/stars/kpharenraj?style=for-the-badge&color=e3b341&logo=github&label=STARS" alt="Stars" /></a>
   </p>
@@ -33,26 +30,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+---
+
 ## 🚀 About Me
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Quick Overview</h3>
+      <h3 align="left">⚡ Quick Overview</h3>
       <ul>
-        <li>🎓 <b>Focused Domain:</b> Cross-Platform Application & Backend Engineering.</li>
-        <li>💻 <b>Core Languages:</b> Python, Java, SQL, and Web Technologies.</li>
-        <li>🧠 <b>Problem Solving:</b> Active problem solver on LeetCode & HackerRank.</li>
-        <li>🤝 <b>Collaboration:</b> Eager to work on open-source projects & software teams.</li>
+        <li>🎓 <b>Domain Focus:</b> Cross-Platform Desktop/Mobile Applications & Backend Systems.</li>
+        <li>💻 <b>Core Tech Stack:</b> Python, Java, SQL, REST APIs, and Web Development.</li>
+        <li>🧠 <b>Problem Solving:</b> Active Data Structures & Algorithms solver on LeetCode & HackerRank.</li>
+        <li>🤝 <b>Collaboration:</b> Passionate about open-source contributions and software development.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 Current Goals</h3>
+      <h3 align="left">🎯 Current Focus & Goals</h3>
       <ul>
-        <li>📌 Mastering advanced Data Structures, Algorithms & System Design.</li>
-        <li>⚙️ Building scalable RESTful APIs & database-backed web applications.</li>
-        <li>📱 Developing cross-platform tools for mobile & desktop.</li>
-        <li>💬 <b>Ask me about:</b> Python, Java, SQLite, MySQL, and PostgreSQL.</li>
+        <li>📌 <b>System Architecture:</b> Mastering System Design, Scalability & Database Tuning.</li>
+        <li>⚙️ <b>Backend Engineering:</b> Designing high-performance RESTful APIs with Flask & PostgreSQL.</li>
+        <li>📱 <b>Cross-Platform:</b> Crafting intuitive, high-speed interfaces for mobile & desktop.</li>
+        <li>💬 <b>Ask Me About:</b> Python, Java, SQLite, MySQL, and PostgreSQL.</li>
       </ul>
     </td>
   </tr>
@@ -64,25 +63,23 @@
 
 <div align="center">
 
-### 💻 Languages & Core
+### 💻 Languages & Core Runtime
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### 🗄️ Databases & Storage
+### 🗄️ Backend & Database Architecture
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-
-### 🧰 Frameworks & Web Tools
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 
-### 🛠️ Developer Tools & Environments
+### 🛠️ Developer Tools & Environment
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kpharenraj)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
@@ -93,22 +90,22 @@
 
 ---
 
-## 🧩 Problem Solving & Coding Profiles
+## 🧩 Problem Solving & Competitive Coding
 
 <div align="center">
 
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://leetcode.com/u/kp_harenraj">
-        <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /><br /><br />
-        <img src="https://leetcard.jacoblin.cool/kp_harenraj?theme=tokyonight&font=Fira%20Code" alt="LeetCode Stats" height="150" />
+        <img src="https://img.shields.io/badge/LeetCode-Profile_Card-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" /><br /><br />
+        <img src="https://leetcard.jacoblin.cool/kp_harenraj?theme=tokyonight&font=Fira%20Code" alt="LeetCode Card" width="95%" />
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://www.hackerrank.com/profile/koyalkarpulkalh1">
-        <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /><br /><br />
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kpharenraj&repo=kpharenraj&theme=tokyonight&show_owner=true" alt="Repository Showcase" height="150" />
+        <img src="https://img.shields.io/badge/HackerRank-Profile_Card-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" /><br /><br />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kpharenraj&repo=kpharenraj&theme=tokyonight&show_owner=true" alt="Featured Repository" width="95%" />
       </a>
     </td>
   </tr>
@@ -118,11 +115,11 @@
 
 ---
 
-## 📌 Featured Highlights & Projects
+## 📌 Featured Projects & Work Showcase
 
 <div align="center">
 
-| Project | Description | Tech Stack | Link |
+| Project | Description | Tech Stack | Repository |
 | :--- | :--- | :---: | :---: |
 | 🛡️ **Vault / Auth Backend** | Secure authentication and database management backend service. | `Python` `Flask` `SQLite` | [View Code](https://github.com/kpharenraj) |
 | 📱 **Cross-Platform App** | Interactive utility application with clean UI and structured logic. | `Java` `Android` `SQL` | [View Code](https://github.com/kpharenraj) |
@@ -132,16 +129,17 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics & Dashboard
 
 <div align="center">
+
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=kpharenraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Haren's GitHub Stats" height="175" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=kpharenraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
       </td>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kpharenraj&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="175" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kpharenraj&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="180" />
       </td>
     </tr>
   </table>
@@ -150,9 +148,10 @@
 
   <img src="https://streak-stats.demolab.com?user=kpharenraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-  <br />
+  <br /><br />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kpharenraj&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
+
 </div>
 
 ---
@@ -166,8 +165,8 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/koyalkarpulkalh1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koyalkarpulkalharenraj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kpharenraj)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kpharenraj)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KPHarenRaj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kpharenraj)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=61591957987568)
 
 </div>
@@ -180,8 +179,13 @@
 
 <br />
 
+<!-- Dynamic Footer Banner -->
 <div align="center">
-  <a href="#-hi-im-haren-raj">⬆️ Back to Top</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,70:1f2335,100:1a1b27&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>
+
+<div align="center">
+  <a href="#-about-me"><b>⬆️ Back to Top</b></a>
   <br /><br />
-  <sub>Designed with ❤️ for <a href="https://github.com/kpharenraj">@kpharenraj</a></sub>
+  <sub>Designed with ❤️ for <a href="https://github.com/kpharenraj"><b>@kpharenraj</b></a></sub>
 </div>
