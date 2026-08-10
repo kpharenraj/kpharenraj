@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <!-- Dynamic Hero Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,70:1f2335,100:38bdf8&height=230&section=header&text=Hi,%20I%20am%20Haren%20Raj&fontSize=48&fontColor=ffffff&animation=fadeIn&subtext=Cross-Platform%20%26%20Backend%20Developer%20%7C%20DSA%20Solver&subtextFontSize=18&subtextColor=7aa2f7" width="100%" alt="Header Banner" />
@@ -7,7 +9,7 @@
 
   <!-- Animated Typing SVG Banner -->
   <a href="https://github.com/kpharenraj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Cross-Platform+%26+Backend+Solutions;Exploring+Python+%7C+Java+%7C+PostgreSQL+%7C+Web+Dev;Solving+DSA+Problems+on+LeetCode+%26+HackerRank;Always+Learning+%26+Building+Daily!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Cross-Platform+%26+Backend+Solutions;Exploring+Python+%7C+Java+%7C+FastAPI+%7C+PostgreSQL;Solving+DSA+Problems+on+LeetCode+%26+HackerRank;Always+Learning+%26+Building+Daily!" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -41,7 +43,7 @@
       <ul>
         <li>🎓 <b>Domain Focus:</b> Cross-Platform Desktop/Mobile Applications & Backend Systems.</li>
         <li>💻 <b>Core Tech Stack:</b> Python, Java, SQL, REST APIs, and Web Development.</li>
-        <li>🧠 <b>Problem Solving:</b> Active Data Structures & Algorithms solver on LeetCode & HackerRank.</li>
+        <li>🧠 <b>Problem Solving:</b> Learning Data Structures & Algorithms on LeetCode & HackerRank.</li>
         <li>🤝 <b>Collaboration:</b> Passionate about open-source contributions and software development.</li>
       </ul>
     </td>
@@ -49,9 +51,9 @@
       <h3 align="left">🎯 Current Focus & Goals</h3>
       <ul>
         <li>📌 <b>System Architecture:</b> Mastering System Design, Scalability & Database Tuning.</li>
-        <li>⚙️ <b>Backend Engineering:</b> Designing high-performance RESTful APIs with Flask & PostgreSQL.</li>
+        <li>⚙️ <b>Backend Engineering:</b> Designing high-performance RESTful APIs with FastAPI & PostgreSQL.</li>
         <li>📱 <b>Cross-Platform:</b> Crafting intuitive, high-speed interfaces for mobile & desktop.</li>
-        <li>💬 <b>Ask Me About:</b> Python, Java, SQLite, MySQL, and PostgreSQL.</li>
+        <li>💬 <b>Ask Me About:</b> Python, Java, SQLite, SQL Server, and PostgreSQL.</li>
       </ul>
     </td>
   </tr>
@@ -72,12 +74,10 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### 🗄️ Backend & Database Architecture
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
-[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 
 ### 🛠️ Developer Tools & Environment
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -105,7 +105,7 @@
     <td align="center" width="50%" valign="top">
       <a href="https://www.hackerrank.com/profile/koyalkarpulkalh1">
         <img src="https://img.shields.io/badge/HackerRank-Profile_Card-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" /><br /><br />
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kpharenraj&repo=kpharenraj&theme=tokyonight&show_owner=true" alt="Featured Repository" width="95%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=180&text=HackerRank%20Stats&fontSize=28&fontColor=2ec866&subtext=%40koyalkarpulkalh1%20%7C%20Problem%20Solving%20%26%20Badges&subtextFontSize=16&subtextColor=7aa2f7&animation=fadeIn" alt="HackerRank Stats Card" width="95%" />
       </a>
     </td>
   </tr>
@@ -121,7 +121,7 @@
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :---: | :---: |
-| 🛡️ **Vault / Auth Backend** | Secure authentication and database management backend service. | `Python` `Flask` `SQLite` | [View Code](https://github.com/kpharenraj) |
+| 🛡️ **Secure Startup Vault** | Secure authentication and database management backend service. | `Python` `Flask` `SQLite` | [View Code](https://github.com/kpharenraj/Secure_Startup_Vault) |
 | 📱 **Cross-Platform App** | Interactive utility application with clean UI and structured logic. | `Java` `Android` `SQL` | [View Code](https://github.com/kpharenraj) |
 | 🌐 **Developer Portfolio** | Personal portfolio showcase with dynamic badges and stats. | `HTML5` `CSS3` `JS` | [View Code](https://github.com/kpharenraj) |
 
@@ -185,7 +185,7 @@
 </div>
 
 <div align="center">
-  <a href="#-about-me"><b>⬆️ Back to Top</b></a>
+  <a href="#top"><b>⬆️ Back to Top</b></a>
   <br /><br />
   <sub>Designed with ❤️ for <a href="https://github.com/kpharenraj"><b>@kpharenraj</b></a></sub>
 </div>
