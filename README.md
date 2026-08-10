@@ -1,7 +1,10 @@
 <div align="center">
 
   <!-- Header Banner / Greeting -->
-  <h1><img src="https://raw.githubusercontent.com/martinlotering/martinlotering/master/resources/handwave.gif" width="30px"> Hi, I'm <a href="https://github.com/kpharenraj">Haren Raj</a></h1>
+  <h1 style="color: #4dc0ecff; background-color: transparent;">
+    <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px"> Hi, I'm 
+    <a href="https://github.com/kpharenraj" style="color: #4dc0ecff;">Haren Raj</a>
+  </h1>
 
   <h3>🚀 Aspiring Cross-Platform & Backend Developer | Problem Solver</h3>
 
@@ -14,7 +17,7 @@
 
   <!-- GitHub Profile Trophies -->
   <a href="https://github.com/kpharenraj">
-    <img src="https://github-profile-trophy.vercel.app/?username=kpharenraj&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=kpharenraj&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" />
   </a>
 
   <br /><br />
@@ -99,13 +102,13 @@
     <td align="center" width="50%">
       <a href="https://leetcode.com/u/kp_harenraj">
         <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /><br /><br />
-        <img src="https://leetcode-stats-api.herokuapp.com/api?username=kp_harenraj" alt="LeetCode Stats" height="150" />
+        <img src="https://leetcard.jacoblin.cool/kp_harenraj?theme=tokyonight&font=Fira%20Code" alt="LeetCode Stats" height="150" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://www.hackerrank.com/profile/koyalkarpulkalh1">
         <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /><br /><br />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kpharenraj&repo=kpharenraj&theme=tokyonight&show_owner=true" alt="HackerRank Showcase" height="150" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kpharenraj&repo=kpharenraj&theme=tokyonight&show_owner=true" alt="Repository Showcase" height="150" />
       </a>
     </td>
   </tr>
@@ -135,10 +138,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kpharenraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Haren's GitHub Stats" height="175" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=kpharenraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Haren's GitHub Stats" height="175" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpharenraj&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="175" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kpharenraj&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="175" />
       </td>
     </tr>
   </table>
@@ -147,7 +150,7 @@
 
   <img src="https://streak-stats.demolab.com?user=kpharenraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-  <br /><br />
+  <br />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kpharenraj&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
 </div>
